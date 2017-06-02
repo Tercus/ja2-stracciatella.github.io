@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   News: "news"
-  How to run: "how-to-run"
+  Introduction: "introduction"
   Download: "download"
   Development: "https://www.github.com/ja2-stracciatella/ja2-stracciatella"
 
