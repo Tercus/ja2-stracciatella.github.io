@@ -1,6 +1,12 @@
 ---
 layout: page
+published: true
 ---
+# What is the Stracciatella project?
+
+The Jagged Alliance 2 Stracciatella project aims to fix existing bugs of the original (called "vanilla") game. It also tries to bring jagged alliance to as many plattforms and operating systems as possible. Another focus of the project is to make the game moddable in an easy and comfortable way.
+
+As of now, it should run on all 32bit little endian platforms, which support SDL. This includes (but is not limited to) BSDs, Linuxes and Windows on x86. A long term goal is to remove the 32bit and little endian restrictions. There are reports of running it successfully one some hand held devices, such as Android smartphones.
 
 # How to Run
 
