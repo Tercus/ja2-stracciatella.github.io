@@ -3,6 +3,7 @@ layout: page_notitle
 ---
 
 # What is Jagged Alliance 2 Stracciatella?
+---
 
 The Jagged Alliance 2 Stracciatella project aims to fix existing bugs of the original (called "vanilla") game. It also tries to bring jagged alliance to as many plattforms and operating systems as possible. Another focus of the project is to make the game moddable in an easy and comfortable way.
 
@@ -14,23 +15,24 @@ Get started: [How to run](/how-to-run) - [Download](/download)
 
 Discussions: [On The Bears Pit](http://thepit.ja-galaxy-forum.com/index.php?t=thread&frm_id=224) - [On ModDB](http://www.moddb.com/mods/ja2-stracciatella)
 
-## Features
+# Features
+---
 
 JA2 Stracciatella already includes a few special features that can be used to enhance the original game. None of them are required and can most of them are disabled by default. So make sure to look through them before starting a new game
 
-### High Resolution Support
+## High Resolution Support
 
 Added support for high video resolutions. For example, game can be started in 1680x1050  mode like this: `ja2.exe -res 1680x1050`.
 
 ![Ja2 Stracciatella in 1680x1050 resolution](/img/features/high-res.jpg)
 
-### Integrated Editor
+## Integrated Editor
 
 The map editor is now integrated into the game. Start it like this: `ja2.exe -editor`.
 
 ![Ja2 Stracciatella Editor](/img/features/integrated-editor.jpg)
 
-### Included mods
+## Included mods
 
 JA2 Stracciatella includes a handful of mods that you can use in conjunction with it. Most of them only change smaller details or help with more tedious parts of the game, especially if it's not your first play-through. The mods can be found in the `mods` folder and need to be copied into the Jagged Alliance 2 game directory. The following mods are included:
 
@@ -44,11 +46,12 @@ JA2 Stracciatella includes a handful of mods that you can use in conjunction wit
 
 -*test-json-dialogs*: Replaces all Igor's dialog quotes with "Test quote XXX"
 
-### Configuration options
+## Configuration options
 
 JA2 Stracciatella also comes with special configuration files. These can be found in the `externalized` folder. The most important one is the `game.json`. There you can enable and diable values of the original game (such as starting money), as well as enabling or disabling features introduces by this project. What each option does is explained in the file itself. Just open it with a texteditor and edit the values.
 
-## How to Contribute
+# How to Contribute
+---
 
 The best way to contribute is to make a pull request with a bug fix. Please see list of open issues [here](https://github.com/ja2-stracciatella/ja2-stracciatella/issues).
 
