@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: page
 ---
 
-## What is Jagged Alliance 2 Stracciatella?
+# What is Jagged Alliance 2 Stracciatella?
 
 The Jagged Alliance 2 Stracciatella project aims to fix existing bugs of the original (called "vanilla") game. It also tries to bring jagged alliance to as many plattforms and operating systems as possible. Another focus of the project is to make the game moddable in an easy and comfortable way.
 
