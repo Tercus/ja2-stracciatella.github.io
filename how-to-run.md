@@ -1,6 +1,5 @@
 ---
-layout: page
-published: true
+layout: page_notitle
 ---
 
 # How to Run
