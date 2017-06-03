@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 ## What is Jagged Alliance 2 Stracciatella?
